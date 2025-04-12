@@ -25,4 +25,4 @@
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 
-⚡ **Fun fact**: I once won a school football trophy 🏆, but now I spend more time optimizing models than scoring goals 😄
+⚡I once won a school football trophy 🏆, but now I spend more time optimizing models than scoring goals 😄
