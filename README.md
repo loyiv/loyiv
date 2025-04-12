@@ -1,4 +1,4 @@
-## 👋 Hi there! I'm Youwei Liu (Loyiv), a sophomore at Central South University,Changsha China.
+## 👋 Hi there! I'm Youwei Liu (Loyiv), a sophomore at Central South University, Changsha China.
 
 🚀 Aspiring Multimodal AI Researcher | 🎓 Data Science @ CSU | ⚽ Football Lover
 
