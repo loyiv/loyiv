@@ -1,16 +1,29 @@
-## Hi there 👋
+## 👋 Hi there! I'm Youwei Liu (Loyiv), a sophomore at Central South University
 
-<!--
-**loyiv/loyiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Multimodal AI Researcher | 🎓 Data Science @ CSU | ⚽ Football Lover
 
-Here are some ideas to get you started:
+🔭 Currently working on:
+- Multimodal AI (MLLMs)
+- Fake news detection
+- Recommender systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Actively learning:
+- Multimodal large language models (MLLMs)
+- Multimodal learning
+- Graph Neural Networks (GNNs)
+
+👯 Looking to collaborate on impactful AI projects — especially in NLP, MLLM, or recommender systems
+
+💬 Let's connect and learn together!  
+- WeChat: **loyiv0321**  
+- Email: **loyiv5477@gmail.com**  
+
+🛠️ **Skills & Tech Stack**  
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
+![Qwen LLM](https://img.shields.io/badge/Qwen_LLM-%23007ACC?style=for-the-badge&logo=OpenAI&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+⚡ **Fun fact**: I once won a school football trophy 🏆, but now I spend more time optimizing models than scoring goals 😄
