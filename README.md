@@ -21,7 +21,7 @@
 🛠️ **Skills & Tech Stack**  
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
-![Qwen LLM](https://img.shields.io/badge/Qwen_LLM-%23007ACC?style=for-the-badge&logo=OpenAI&logoColor=white)
+![LLM](https://img.shields.io/badge/Qwen_LLM-%23007ACC?style=for-the-badge&logo=OpenAI&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 
