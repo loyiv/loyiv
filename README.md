@@ -12,7 +12,7 @@
 - Multimodal learning
 - Graph Neural Networks (GNNs)
 
-👯 Looking to collaborate on impactful AI projects — especially in NLP, MLLM, or recommender systems
+Looking to collaborate on impactful AI projects — especially in NLP, MLLM, or recommender systems
 
 💬 Let's connect and learn together!  
 - WeChat: **loyiv0321**  
