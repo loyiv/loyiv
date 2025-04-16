@@ -1,6 +1,6 @@
 ## 👋  I'm Youwei Liu (Loyiv), a sophomore at Central South University, Changsha China.
 
-🚀 Aspiring Multimodal AI Researcher | 🎓 Data Science @ CSU | ⚽ Football Lover
+🎓 Data Science @ CSU 
 
 🔭 Currently working on:
 - Multimodal AI (MLLMs)
