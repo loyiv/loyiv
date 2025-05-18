@@ -1,4 +1,4 @@
-## 👋  I'm Youwei Liu (Loyiv), a sophomore at Central South University, Changsha China.
+## I'm Youwei Liu (Loyiv), a sophomore at Central South University（year 2）, Changsha China.
 
 🎓 Data Science @ CSU 
 
