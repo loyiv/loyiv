@@ -10,7 +10,6 @@
 🌱 Actively learning:
 - Multimodal large language models (MLLMs)
 - Multimodal learning
-- Graph Neural Networks (GNNs)
 
 Looking to collaborate on impactful AI projects — especially in NLP, MLLM, or recommender systems
 
