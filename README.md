@@ -1,17 +1,13 @@
-## I'm Youwei Liu (Loyiv), a sophomore at Central South University（year 2）, Changsha China.
+## I'm Youwei Liu (Loyiv), an undergraduate at Central South University（year 3）, Changsha China.
 
 🎓 Data Science @ CSU 
 
 🔭 Currently working on:
-- Multimodal AI (MLLMs)
-- Fake news detection
-- Recommender systems
+- Agentic learning
+- Reinforcement Learning
+- embodied agent and task-planning
 
-🌱 Actively learning:
-- Multimodal large language models (MLLMs)
-- Multimodal learning
-
-Looking to collaborate on impactful AI projects — especially in NLP, MLLM, or recommender systems
+NLPer
 
 💬 Let's connect and learn together!  
 - WeChat: **loyiv0321**  
